@@ -1,0 +1,12 @@
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+*.sln
+*.sdf
+*.suo
+The following folders should be committed:
+/Content (could be handled by the editor plugin if you have that set up)
+/Config
+/Build
+/Source
